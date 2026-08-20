@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Media Platform
 
 A full-stack social media application built with Django REST Framework and React + Vite.
@@ -153,3 +154,6 @@ The app will be available at `http://localhost:5174`
 - follower_id (Foreign Key)
 - following_id (Foreign Key)
 - created_at
+=======
+# CodeAlpha_socialmedia
+>>>>>>> 573c8a6346a1a11ea84268b663cd1f237188383d
